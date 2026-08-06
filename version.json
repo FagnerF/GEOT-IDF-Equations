@@ -1,8 +1,8 @@
 {
   "app": "GEOT-IDF Equations",
-  "version": "10.0.2",
-  "date": "2026-08-05",
+  "version": "10.0.3",
+  "date": "2026-08-06",
   "notes": "Several improvements and enhancements have been implemented in the tool.",
-  "installer": "GEOT-IDF_Equations_Setup_10.0.2.exe",
-  "url": "https://github.com/FagnerF/GEOT-IDF-Equations/releases/download/v10.0.2/GEOT-IDF_Equations_Setup_10.0.2.exe"
+  "installer": "GEOT-IDF_Equations_Setup_10.0.3.exe",
+  "url": "https://github.com/FagnerF/GEOT-IDF-Equations/releases/download/v10.0.3/GEOT-IDF_Equations_Setup_10.0.3.exe"
 }
