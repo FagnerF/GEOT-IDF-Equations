@@ -1,8 +1,8 @@
 {
   "app": "GEOT-IDF Equations",
-  "version": "10.1.0",
-  "date": "2026-09-14",
+  "version": "10.1.1",
+  "date": "2026-09-15",
   "notes": "Implementation and integration of the BR-DWGD v3.2.4 dataset into the GEOT-IDF tool.",
-  "installer": "GEOT-IDF_Equations_Setup_10.1.0.exe",
-  "url": "https://github.com/FagnerF/GEOT-IDF-Equations/releases/download/v10.1.0/GEOT-IDF_Equations_Setup_10.1.0.exe"
+  "installer": "GEOT-IDF_Equations_Setup_10.1.1.exe",
+  "url": "https://github.com/FagnerF/GEOT-IDF-Equations/releases/download/v10.1.1/GEOT-IDF_Equations_Setup_10.1.1.exe"
 }
